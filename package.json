@@ -1,0 +1,19 @@
+{
+  "name": "SemanticWeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:d8ta/SemanticWebLDP.git"
+  },
+  "author": "Daniel Raudschus <draudschus.mmt-b2013@fh-salzburg.ac.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d8ta/SemanticWebLDP/issues"
+  },
+  "homepage": "https://github.com/d8ta/SemanticWebLDP"
+}
